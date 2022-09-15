@@ -1,5 +1,4 @@
 <h1>👋 Helloo , I'm Aniruddh Singh</h1>
-<hr>
 <br>
 - 👀 I’m interested in App Development
 <br>
