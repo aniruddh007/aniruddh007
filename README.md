@@ -1,7 +1,10 @@
 <p align = "center"> 👋 Hi, I’m @aniruddh007 </p>
-<hr height = "1">
+<hr>
+<br>
 - 👀 I’m interested in App Development
+<br>
 - 🌱 I’m currently learning Flutter
+<br>
 - 📫 How to reach me saniruddh270@gmail.com
 
 
