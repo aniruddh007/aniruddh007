@@ -1,8 +1,8 @@
 <h1>👋 Helloo , I'm Aniruddh Singh</h1>
 <br>
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Web Development
 <br>
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning PHP , Ajax , SQL and JQuery
 <br>
 - 📫 How to reach me saniruddh270@gmail.com
 
